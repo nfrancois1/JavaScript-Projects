@@ -1,0 +1,22 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    background-color: blue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+div{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+button{
+    background-color:white;
+}
+h1{
+    color: white;
+}
+h4{
+    color: white;
+    font-size: 30px;
+}
